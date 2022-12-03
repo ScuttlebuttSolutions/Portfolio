@@ -1,3 +1,133 @@
 h1 {
-    color: Hexidecimal#1a4468(240, 100%, 100%, .5)
+    color: antiquewhite;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgb(214, 172, 33);
+}
+
+li a{
+    display: block;
+    color:black;
+    padding: 8px 16px;
+    text-decoration: underline;
+}
+
+li a:hover {
+    background-color: black;
+    color: white
+}
+
+p {
+    color: antiquewhite;
+}
+
+body {
+    background-color: rgb(47, 91, 135);
+}
+
+.antiquewhite-text {
+    color: antiquewhite;
+}
+
+.important {
+    font-weight: bold;
+}
+ 
+#lead-paragraph {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.important:hover {
+    background-color: black;
+    color: white;
+}
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    padding-right: 40px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(214, 172, 33)
+}
+
+a[href="C:/Users/Cissy/Desktop/HTML100/html-basics/index.html"] {
+    background-color: rgb(214, 172, 33);
+    padding: .5rem;
+    padding: left 10px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(9, 9, 9);
+}
+
+a[href="C:/Users/Cissy/Desktop/HTML100/html-basics/semantic-elements.html"] {
+    background-color: rgb(214, 172, 33);
+    padding: .5rem;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(9, 9, 9);
+}
+
+a[href="C:/Users/Cissy/Desktop/HTML100/html-basics/sectioning-elements.html"] {
+    background-color: rgb(214, 172, 33);
+    padding: .5rem;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(9, 9, 9);
+}
+
+a[href="https://github.com/ScuttlebuttSolutions/semantic-elements.git"] {
+    background-color: rgb(214, 172, 33);
+    padding: .5rem;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(9, 9, 9);
+}
+
+h1 {
+    color: antiquewhite;
+    font-family: "Lucida Handwriting"; 
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(7, 28, 112);
+}
+
+p.important {
+    width: 75%;
+}
+img {
+    border-style: double;
+    border-color: rgb(214, 172, 33);
+    border-width: 3px;
+    width: 10%;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+h3 {
+    color:antiquewhite;
+    padding-top: 50px;
+}
+
+h4 {
+    color:antiquewhite;
+}
+
+footer {
+    text-emphasis-color:antiquewhite;
+    padding-top: 75px;
+    padding-left: 50%;
+}
+
+a:link {
+    color: antiquewhite;
+    back-ground-color: rgb(214, 172, 33)
+    text-decoration: none; 
 }
