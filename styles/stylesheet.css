@@ -59,7 +59,7 @@ aside {
 a[href="C:/Users/Cissy/Desktop/HTML100/html-basics/index.html"] {
     background-color: rgb(214, 172, 33);
     padding: .5rem;
-    padding: left 10px;
+    padding-left: 10px;
     border-style: solid;
     border-width: 4px;
     border-color: rgb(9, 9, 9);
@@ -128,6 +128,6 @@ footer {
 
 a:link {
     color: antiquewhite;
-    back-ground-color: rgb(214, 172, 33)
+    background-color: rgb(214, 172, 33);
     text-decoration: none; 
 }
